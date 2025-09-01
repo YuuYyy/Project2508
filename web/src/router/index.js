@@ -13,9 +13,6 @@ const routes = [
     path: "/",
     name: "home",
     redirect: "/pk/",
-    meta: {
-      requestAuth: true,
-    }
   },
   {
     path: "/pk/",

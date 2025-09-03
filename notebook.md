@@ -1,5 +1,7 @@
 ### 前端
 
+#### VScode vue补全插件：vuter
+
 #### Vue三件套
 
 ```vue
@@ -16,8 +18,6 @@
 <style scoped>
 </style>
 ```
-
-
 
 #### bootstrap
 

@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container">
     <!--<a class="navbar-brand" href="/">Projcet2508</a>-->
-    <router-link class="navbar-brand" :to="{name: 'home'}">Projcet2508</router-link>
+    <router-link class="navbar-brand" :to="{name: 'home'}">King of Snakes</router-link>
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
